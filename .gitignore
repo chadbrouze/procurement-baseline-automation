@@ -1,2 +1,7 @@
 .venv/
 .env
+
+# Ignore all CSV files except specific ones
+*.csv
+!usfoods.csv
+!factors.csv
