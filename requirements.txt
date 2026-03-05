@@ -3,3 +3,4 @@ openai
 backoff
 papermill
 ipykernel
+python-dotenv
